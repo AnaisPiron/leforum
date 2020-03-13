@@ -17,7 +17,7 @@ L’objectif premier est évidemment de **vendre** des places de spectacle, de c
 
 ## Scénarios, tests utilisateurs
 3. [Voir les scénarios](./test_utilisateurs/scenarios.md)
-4. [Commentaires et notes sur les Tests Utilisateuts](./test_utilisateurs/)
+4. [Commentaires et notes sur les Tests Utilisateurs](./test_utilisateurs/)
 
-## Solutions, refonte
+## Solutions, refontes
 5. [voir les solutions proposées et les refontes]()
