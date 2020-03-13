@@ -20,4 +20,4 @@ L’objectif premier est évidemment de **vendre** des places de spectacle, de c
 4. [Commentaires et notes sur les Tests Utilisateurs](./test_utilisateurs/)
 
 ## Solutions, refontes
-5. [voir les solutions proposées et les refontes]()
+5. [voir les solutions proposées et les refontes](./solutions_refontes/solutions-refontes.md)
