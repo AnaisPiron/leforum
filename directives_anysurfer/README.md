@@ -1,4 +1,5 @@
 # LES DIRECTIVES D'ANYSURFER TESTÉES SUR LE SITE DU FORUM DE LIÈGE
+> [Retourner à la racine du repo Le Forum](../../..) \
 > Liens : [Les directives d'AnySurfer](https://www.anysurfer.be/fr/en-pratique/directives) & [Le Forum de Liège](https://www.leforum.be/)
 
 ## Navigation
@@ -16,7 +17,7 @@ Voici un aperçu de ce que l'on voit lorsqu'on TAB :
 Les liens (et boutons) ne nous indiquent absolument pas à quoi font référence les liens cliquables.
 
 "réservation" de quoi exactement ?
-<img src="./img/url.png" alt="les liens sont mal référencés" />
+                    
 
 ### 2.1 Le code source est conforme à la spécification du langage `NON`
 

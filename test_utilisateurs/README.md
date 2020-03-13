@@ -96,10 +96,10 @@
 
   **Prénom :**  Enes\
   **Âge :**  19\
-  **Fonction :** indépendant, maçon, travaille également dans le Trading et envisage le marketing.
+  **Fonction :** indépendant, maçon, travaille également dans le Trading et envisage le marketing.\
   **Technologie :** Habitué à la PS4 et au Smartphone.
   Il se sert de son telephone pour tout et navigue tous les jours sur le web.
-  N’a jamais été sur ce site de sa vie.
+  N’a jamais été sur ce site de sa vie.\
   **Il a réalisé le test sur smartphone** 
 
   ### Scénario 1
@@ -137,7 +137,7 @@
   **Âge:** 24\
   **Fonction :** rechercheur d’emploi\
   **Technologie:** Habitué à jouer sur PC (windows), il navigue souvent sur le web.\
-  N’a jamais été sur ce site de sa vie.
+  N’a jamais été sur ce site de sa vie.\
   **Il a réalisé le test sur MacBook**
 
 
@@ -161,4 +161,4 @@
 
   *04:12 > 04:40*
 
-    - essoufflé après avoir scroll la page un bon moment (il en a marre de scroll)
+    - Essoufflé après avoir scroll la page un bon moment (il en a marre de scroll)
