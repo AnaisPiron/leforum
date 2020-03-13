@@ -1,4 +1,4 @@
-# TEST UTILISATEURS
+# TESTS UTILISATEURS
 
 > [Retourner à la racine du repo Le Forum](../../..) \
 > Ci-dessous, les commentaires des vidéos des tests utilisateurs en plus d'une courte description des utilisateurs eux même et du timing de leurs tests\
@@ -9,7 +9,7 @@
 ## Utilisateur 1
   **Prénom :**  Karine\
   **Âge :**  44\
-  **Fonction :** comptable à la FN. 
+  **Fonction :** comptable à la FN.\
   **Technologie :** elle a l'habitude d'utiliser un ordinateur pour le travail. Durant son temps libre, elle utilise beaucoup son téléphone et navigue tous les jours sur le web. Elle n'avait jamais visité ce site avant.\
   **Elle a réalisé le test sur smartphone**
 
