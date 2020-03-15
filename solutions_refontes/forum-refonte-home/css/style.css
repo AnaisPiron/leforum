@@ -1,0 +1,262 @@
+@font-face {
+    font-family: 'BrandonGrotesqueBold', 'BrandonGrotesqueMedium';
+}
+* {
+    margin: 0;
+}
+html {
+    background-color: #1b1c20;
+    color: white;
+}
+body{
+    width: 100%;
+    font-family: 'BrandonGrotesqueBold', Tahoma;
+}
+header{
+    position: relative;
+    padding-bottom: 2em;
+}
+h1{
+   display: block;
+    width: 25%;
+}
+.home {
+    width: 100%;
+    display: block;
+}
+nav{
+    width: 75%;
+    display: block;
+    position: absolute;
+    top: 2em;
+    right: 0;
+}
+nav ul li{
+    display: inline-block;
+    margin-right: 1em;
+}
+.nav{
+    color: white;
+    text-decoration: none;
+    padding: 0.5em 0 0.5em 0;
+    font-family: 'BrandonGrotesqueMedium', Tahoma;
+}
+.none{
+    display: none;
+}
+.affiche{
+    background-image: url("../img/background.jpg");
+    background-repeat: no-repeat;
+    width: 100%;
+    position: relative;
+}
+.affiche-infos{
+    position: absolute;
+    top: 6em;
+    right: 6em;
+    width: 40%;
+    text-align: right;
+}
+.affiche-img{
+    margin: 0 0 0 6em;
+    width: 40%;
+}
+.arrow-right{
+    top: 50%;
+    position: absolute;
+    right: 10px;
+}
+.arrow-left{
+    position: absolute;
+    top: 50%;
+    left: 10px;
+}
+.orga-event{
+    font-size: 1.375em;
+}
+.title-event{
+    font-size: 3.375em;
+    margin-top: 0.8em;
+    margin-bottom: 1em;
+}
+.date-event{
+    font-size: 1.125em;
+    color: #dec187;
+}
+.reservation-container{
+    margin-top: 1.5em;
+}
+.reservation{
+    color: #dec187;
+    padding: 0.5em 2em;
+    border: 1px #dec187 solid;
+    width: fit-content;
+}
+.reservation:hover{
+    color: white;
+    padding: 0.5em 2em;
+    border: 1px #dec187 solid;
+    width: fit-content;
+    background-color: #dec187;
+}
+.vip-container{
+    background-image: url("../img/background-vip.jpg");
+    width: 100%;
+    padding: 5em 0;
+}
+.vip{
+    width: 60%;
+    margin: 0 auto;
+}
+.vip h2{
+    font-size: 2.125em;
+    text-align: center;
+}
+.vip p{
+    font-size: 1.125em;
+    margin: 1.5em 0;
+}
+.vip .p-center{
+    text-align: center;
+}
+.vip .p-right{
+    text-align: right;
+}
+.chef-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 2em;
+    margin-top: 5em;
+}
+.vip .chef-container .chef span{
+    display: block;
+    margin-top: 0.75em;
+}
+.vip .chef-container .chef a{
+    color: #dec187;
+}
+.vip .chef-container .chef a:hover{
+    color: white;
+}
+.one{
+    grid-column: 1;
+    grid-row: 1;
+}
+.two{
+    grid-column: 1;
+    grid-row: 2;
+}
+.three{
+    grid-column: 2;
+    grid-row: 1;
+}
+.four{
+    grid-column: 2;
+    grid-row: 2;
+}
+.container-formule{
+    margin-top: 5em;
+}
+.formule-buttons li{
+    display: inline-block;
+    margin-right: 1em;
+}
+.formule-buttons li a {
+    color: #dec187;
+    text-decoration: none;
+    border: 1px #dec187 solid;
+    padding: 1em;
+}
+.formule-buttons li a:hover{
+    color: white;
+    text-decoration: none;
+    border: 1px #dec187 solid;
+    padding: 1em;
+    background-color: #dec187;
+}
+.galerie{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin: 0 6em;
+}
+.galerie .a1{
+    grid-column: 1;
+    grid-row: 1;
+}
+.galerie .a2{
+    grid-column: 2/4;
+    grid-row: 1;
+}
+.galerie .a3{
+    grid-column: 1/3;
+    grid-row: 2;
+}
+.galerie .a4{
+    grid-column: 3;
+    grid-row: 2;
+}
+.a1, .a2, .a3, .a4{
+    position: relative;
+}
+.a-infos{
+    position: absolute;
+    bottom: 1em;
+    left: 1em;
+    background-color: #1b1c20;
+    padding: 1em;
+}
+.galerie .a1 img{
+    width: 100%;
+}
+.galerie .a2 img{
+    width: 100%;
+}
+.galerie .a3 img{
+    width: 100%;
+}
+.galerie .a4 img{
+    width: 100%;
+}
+footer{
+    text-align: center;
+}
+.cta-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-auto-rows: minmax(75px, auto);
+}
+.cta-left{
+    background-color: #dec187;
+    grid-column: 1;
+    padding: 30px 0;
+}
+.cta-right{
+    background-color: #393f4d;
+    grid-column: 2;
+    padding: 30px 0;
+}
+.cta-left a{
+    color: white;
+    text-decoration: none;
+    padding: 30px 0;
+}
+.cta-right a {
+    color: white;
+    text-decoration: none;
+    padding: 30px 0;
+}
+footer .logo img{
+    width: 25%;
+    margin: 5em auto 0 auto;
+}
+footer .contact{
+    margin-top: 3em;
+}
+footer .copyright{
+    margin-top: 2em;
+    color: ghostwhite;
+}
+footer .copyright a {
+    color: ghostwhite;
+    text-decoration: none;
+}
